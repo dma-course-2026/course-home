@@ -39,6 +39,8 @@ Repo này chứa:
 | HV13 | Đinh Vĩnh Anh | `hv13-dinh-vinh-anh` | https://github.com/dma-course-2026/hv13-dinh-vinh-anh |
 | HV14 | Lê Đức Anh | `hv14-le-duc-anh` | https://github.com/dma-course-2026/hv14-le-duc-anh |
 | HV15 | Nguyễn Thị Thùy Dương | `hv15-nguyen-thi-thuy-duong` | https://github.com/dma-course-2026/hv15-nguyen-thi-thuy-duong |
+| HV16 | Đào Duy Anh | `hv16-dao-duy-anh` | https://github.com/dma-course-2026/hv16-dao-duy-anh |
+| HV17 | Trịnh Quang Anh | `hv17-trinh-quang-anh` | https://github.com/dma-course-2026/hv17-trinh-quang-anh |
 
 ## GitHub Organization
 
